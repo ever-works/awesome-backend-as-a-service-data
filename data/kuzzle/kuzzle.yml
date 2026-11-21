@@ -1,0 +1,13 @@
+name: "Kuzzle"
+description: "Open source backend server with realtime database, geofencing, pub/sub, and user management. Supports multiple protocols including MQTT, WebSocket, and HTTP for IoT and mobile applications."
+source_url: "https://kuzzle.io/"
+category: "Open-Source BaaS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "iot"
+icon_url: "https://icons.duckduckgo.com/ip3/kuzzle.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://kuzzle.io/>\n- Repository: <https://github.com/kuzzleio/kuzzle>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:54"

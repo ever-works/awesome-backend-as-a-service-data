@@ -1,0 +1,13 @@
+name: "Parse Server"
+description: "Open source backend framework that can be deployed on any infrastructure supporting Node.js. Provides database adapters, authentication, push notifications, and cloud code for migrating from Parse.com."
+source_url: "https://parseplatform.org/"
+category: "Self-Hostable"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "node-js"
+icon_url: "https://icons.duckduckgo.com/ip3/parseplatform.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://parseplatform.org/>\n- Repository: <https://github.com/parse-community/parse-server>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 01:54"

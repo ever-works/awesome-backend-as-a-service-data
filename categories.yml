@@ -1,0 +1,12 @@
+- id: open-source-baas
+  name: "Open-Source BaaS"
+- id: managed-baas
+  name: "Managed BaaS"
+- id: realtime-and-sync-backends
+  name: "Realtime & Sync Backends"
+- id: auth-database-platforms
+  name: "Auth + Database Platforms"
+- id: mobile-backends
+  name: "Mobile Backends"
+- id: self-hostable
+  name: "Self-Hostable"

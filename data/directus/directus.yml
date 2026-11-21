@@ -1,0 +1,13 @@
+name: "Directus"
+description: "Open data platform wrapping SQL databases with dynamic API, admin app, and content management tools. Supports MySQL, PostgreSQL, and other SQL flavors with self-hosted and cloud options."
+source_url: "https://directus.io/"
+category: "Self-Hostable"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "headless-cms"
+icon_url: "https://icons.duckduckgo.com/ip3/directus.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://directus.io/>\n- Repository: <https://github.com/directus/directus>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 01:54"

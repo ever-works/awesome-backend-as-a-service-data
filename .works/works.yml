@@ -1,0 +1,31 @@
+company_name: "Awesome Backend-as-a-Service"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome Backend-as-a-Service"
+initial_prompt: "A curated directory of backend-as-a-Service platforms (Firebase alternatives): database, auth, storage and realtime in one. Include products such as Supabase, Firebase, Appwrite, PocketBase, Convex, Nhost, AWS Amplify, Back4App, InstantDB, Xata, Directus, Hasura, plus other notable commercial and open-source options. Categories: Open-Source BaaS, Managed BaaS, Realtime & Sync Backends, Auth + Database Platforms, Mobile Backends, Self-Hostable. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-backend-as-a-service-website"
+company_website: "https://baas.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0
